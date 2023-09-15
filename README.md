@@ -1,2 +1,2 @@
-# Meu projetos Git 01
+# Projetos Git 01
  Meu primeiro repositorio
